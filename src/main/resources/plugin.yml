@@ -1,0 +1,6 @@
+main: me.downthepark.backpack.Backpack
+name: Backpack
+version: 1.0
+description: A simple backpack plugin
+commands:
+  backpack:
